@@ -38,7 +38,7 @@ Lenovo IdeaPad Gaming 3 15ARH05
 
 - OS: Windows 10 Home
 
-![PUBG_DEFAULT](https://github.com/EKI-INDRADI/gtx-1650-ti-mobile-underclock-temp-limit/raw/master/RUNNING_TEST.png)
+![PUBG_DEFAULT](https://github.com/EKI-INDRADI/gtx-1650-ti-mobile-underclock-temp-limit/raw/master/PUBG_BY_DEFAULT.png)
 
 
 Reference & thanks to :
