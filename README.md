@@ -19,6 +19,10 @@ My opinion is why using ASUS GPU Tweak II ? i think asus have laptop/notebook sa
 after install need restart OS and GTX 1650 TI and GPU is detected and can underclock/overclock, limit temperature & limit FPS is unlocked but volt is locked.
 
 
+# UPDATE 2021-07-18
+- dont underclock & undervolt GPU GTX 1650 TI, for better pixel & better performance, example : clock +0 & memclock +0 just limit temp only set to 70'C [ recomended ]
+
+
 ![TESTED](https://github.com/EKI-INDRADI/gtx-1650-ti-mobile-underclock-temp-limit/raw/master/RUNNING_TEST.png)
 
 
